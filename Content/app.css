@@ -1,0 +1,45 @@
+﻿/* custom css goes here*/
+
+
+/**
+ * FileName: app.js
+ * 
+ * @author Satnam Singh
+ * StudentID: 300875942
+ * @date June 2, 2016
+ * 
+ * git hub:https://github.com/Satnam1313/Assignment-2-Client-Side-Web-Development
+ * website: http://assignment-2-mini-protfolio.azurewebsites.net/
+ * @description: This file icontaing the Custom CSS file for the web site
+ */
+
+#College {
+    color: white;
+}
+
+#contactForm {
+    color: black;
+}
+
+#paragraphOne {
+    color: black;
+}
+
+#paragraphTwo {
+    color: black;
+    padding-top: 15px 15px 15px 15px;
+}
+
+#paragraphThree {
+    color: black;
+    padding-top: 15px 15px 15px 15px;
+}
+
+#paragraphFour {
+    color: black;
+    padding-top: 15px 15px 15px 15px;
+}
+
+#canvas {
+    border: 1px solid black;
+}
